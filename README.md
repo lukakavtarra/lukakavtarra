@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lukakavtarra
-- 👀 I’m interested in Web developing
+- 👀 I’m learning new topics in Web developing
 - 🌱 I’m currently learning HTML5/CSS/Javascript
 - 💞️ I’m looking to work for someone cause its best way to learn
 - 📫 How to reach me - Lukakavtaradze@gmail.com

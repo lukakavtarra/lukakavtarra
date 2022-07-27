@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lukakavtarra
 - 👀 I’m learning new topics in Web developing
-- 🌱 I’m currently learning HTML5/CSS/Javascript
+- 🌱 I’m currently learning React/Node
 - 💞️ I’m looking to work for someone cause its best way to learn
 - 📫 How to reach me - Lukakavtaradze@gmail.com
 

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lukakavtarra
-- 👀 I’m learning new topics in Web developing
-- 🌱 I’m currently learning React/Node
-- 💞️ I’m looking to work for someone cause its best way to learn
+- 👀 I’m focused on building modern, responsive full-stack web applications.
+- 🌱 My core stack includes React, Node.js, and TypeScript.
+- 💞️ I’m actively looking to take on junior web development tasks and contribute to a team's real-world projects.
 - 📫 How to reach me - Lukakavtaradze@gmail.com
 
 <!---
